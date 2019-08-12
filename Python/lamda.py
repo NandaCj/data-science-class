@@ -28,5 +28,10 @@ print(list(M))
 #--------------------- reduce ----------------
 
 R = functools.reduce(lambda x, y : x+y , L)
+print(R)
 
+#--------------------- Test ----------------
 
+print(list(map(lambda x: x*2, L)))
+
+print(list(filter(lambda x : x % 2 ==0 , L )))

@@ -1,0 +1,22 @@
+Time Series Analysis :
+
+	1. Suggest Customer demandful products at a point of time - based on timeline , env conditions etc...
+		- Identify selling pattern of a product based on time 
+	2. Inform customers Predict products that can be in demand in near future
+	3. Suggest popular Information about the product that helped the selling faster
+	4. Price Suggestions and 
+	5. Analyse Selling Reasons of product based on time - other top buys etc
+		and recommend more in current products in demand 
+	
+	
+	6. Categorywise analysis of product selling pattern based on time , movie release, climate etc... 
+	7. Analyse currently More selling product and predict which product can be sold more in near future 
+		
+	
+	
+	Forecast products that can be in demand based on historical data analysis  
+	Forecast category products that can be in demand based on current buying pattern of all customers
+	Suggest popular Information required for the product to sell faster
+	Predict selling time of a particular product based on current selling pattern
+	
+	

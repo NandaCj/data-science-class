@@ -1,0 +1,1670 @@
+1567167094130	geckodriver	INFO	geckodriver 0.19.1
+1567167094132	geckodriver	INFO	Listening on 127.0.0.1:52931
+1567167095288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hwpCwSGfjXwN"
+1567167101117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567167101117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567167101117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567167101117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567167101584	Marionette	TRACE	Received observer notification profile-after-change
+1567167101971	Marionette	TRACE	Received observer notification command-line-startup
+1567167101972	Marionette	TRACE	Received observer notification nsPref:changed
+1567167101973	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1567167106191	Marionette	TRACE	Received observer notification toplevel-window-ready
+1567167110489	Marionette	TRACE	Received observer notification marionette-startup-requested
+1567167110489	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1567167110604	Marionette	TRACE	All scripts recorded.
+1567167110605	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1567167110605	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1567167110607	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1567167110607	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1567167110608	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1567167110608	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1567167110609	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1567167110610	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1567167110938	Marionette	INFO	Listening on port 44157
+1567167110938	Marionette	DEBUG	Remote service is active
+1567167110957	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:54600
+1567167110966	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1567167110966	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1567167359002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mXqTbnlmZSf7"
+1567167359602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567167359602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567167359602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567167359602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567167364085	Marionette	INFO	Listening on port 44125
+1567167364122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567167393329	Marionette	INFO	Stopped listening on port 44125
+1567168161484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JKsyWktAFi8y"
+1567168162397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567168162397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567168162398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567168162398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567168168239	Marionette	INFO	Listening on port 33567
+1567168168304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567168223840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rdHxP4cGu625"
+1567168225836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567168225837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567168225837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567168225837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567168231145	Marionette	INFO	Listening on port 44621
+1567168231175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567168796060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yxIjY9QjB00z"
+1567168797610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567168797610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567168797611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567168797611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567168807061	Marionette	INFO	Listening on port 40657
+1567168807091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  receivedBroadcastMessage: handler for
+  threw error:
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567023479829%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567023479829%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+
+(/usr/lib/firefox/firefox:19003): dconf-WARNING **: 18:11:00.210: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband.json, line 1: ReferenceError: marketlivedata is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_sensex.json, line 1: ReferenceError: marketlivedatasensex is not defined
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567169016158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8bEMH58nqTjY"
+1567169017802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567169017802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567169017802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567169017802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567169024411	Marionette	INFO	Listening on port 35863
+1567169024481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567023479829%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567169619608&_0.41088192947585256, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567169671286&_0.9356047091970523, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567169864173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tZEBVpExfZfO"
+1567169869053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567169869054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567169869054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567169869054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567169877564	Marionette	INFO	Listening on port 45819
+1567169877657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567023479829%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567169896992&_0.5145612564366587, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567169951152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.asAZVAv99ENa"
+1567169955047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567169955047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567169955048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567169955048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567169967461	Marionette	INFO	Listening on port 44377
+1567169967504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+
+(/usr/lib/firefox/firefox:23319): dconf-WARNING **: 18:30:12.070: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567170059268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Laf02SOJa4RG"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 19927, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 19927, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 19927, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 19927, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 19927, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 19927, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1567170063643	Marionette	INFO	Stopped listening on port 45819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 16203, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567170067071	Marionette	INFO	Stopped listening on port 35863
+1567170067133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170067133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170067133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170067133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567170068887	Marionette	INFO	Stopped listening on port 33567
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567170076446	Marionette	INFO	Stopped listening on port 44377
+1567170076648	Marionette	INFO	Stopped listening on port 40657
+1567170077089	Marionette	INFO	Stopped listening on port 44621
+1567170078625	Marionette	INFO	Listening on port 37519
+1567170078728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+24200
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1567170214578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZU43BWnjBWMt"
+1567170215772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170215773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170215773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170215773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 23771, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567170220719	Marionette	INFO	Stopped listening on port 37519
+1567170221847	Marionette	INFO	Listening on port 43071
+1567170221897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567170275335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8R23s0gnMUlk"
+1567170276691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170276691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170276691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170276692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567170284167	Marionette	INFO	Listening on port 33189
+1567170284264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband.json, line 1: TypeError: marketlivedata is not a function
+ExceptionHandler::GenerateDump cloned child 25476
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Exiting due to channel error.
+1567170373298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SEeTbBPfERoV"
+1567170375503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170375503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170375503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170375503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567170380315	Marionette	INFO	Listening on port 34111
+1567170380417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567170445479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C0IszEuf6Ml8"
+1567170448170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TGVTfAp2OG3T"
+1567170450336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170450336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170450336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170450336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567170452080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vhPFEgFs2406"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567170455992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170455993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170455993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170455993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 25572, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567170459261	Marionette	INFO	Stopped listening on port 34111
+1567170461100	Marionette	INFO	Stopped listening on port 33189
+1567170465105	Marionette	INFO	Listening on port 44409
+1567170465114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+ExceptionHandler::GenerateDump cloned child 26604
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1567170565977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O5MyVsx9gNVX"
+1567170568034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170568034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170568035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170568035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 26183, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567170574867	Marionette	INFO	Stopped listening on port 44409
+1567170577478	Marionette	INFO	Listening on port 32835
+1567170577510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-869,minify-1.cms, line 77: TypeError: A.error is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567170681201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XpQlIhbOd3ww"
+1567170683501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170683501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170683501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170683501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567170693456	Marionette	INFO	Listening on port 45075
+1567170693533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567170716826	Marionette	INFO	Stopped listening on port 32835
+
+(/usr/lib/firefox/firefox:27497): dconf-WARNING **: 18:42:12.491: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1567170798954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PvB1CXwuvfNZ"
+[Parent 27358, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567170802348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170802348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170802349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170802349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567170802981	Marionette	INFO	Stopped listening on port 45075
+1567170811185	Marionette	INFO	Listening on port 37687
+1567170811290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567023479829%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567170911094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YwLwrWgAcnzr"
+1567170913274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567170913274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567170913274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567170913274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567170918365	Marionette	INFO	Listening on port 39439
+1567170918413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+1567170937164	Marionette	INFO	Stopped listening on port 37687
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567023479829%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-869,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://js.etimg.com/js_jquery32/v-2,minify-1.cms, line 59: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 28516, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567171643356	Marionette	INFO	Stopped listening on port 39439
+1567256327865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0IcaSgx2b8AH"
+1567256335431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567256335432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567256335432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567256335432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567256346767	Marionette	INFO	Listening on port 45131
+1567256346784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+
+(/usr/lib/firefox/firefox:14794): dconf-WARNING **: 18:29:57.346: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1567256484094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LqyfiCgJ2g9W"
+1567256485318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567256485319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567256485319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567256485319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567256493268	Marionette	INFO	Listening on port 46375
+1567256493322	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14560, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+1567256497748	Marionette	INFO	Stopped listening on port 45131
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567256683745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x0stBqiaQnGA"
+1567256684840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567256684840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567256684840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567256684840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567256690873	Marionette	INFO	Listening on port 46791
+1567256690976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567256768455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AjFKiGvjswMb"
+1567256771973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567256771973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567256771973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567256771973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 15305, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 15305, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567256780050	Marionette	INFO	Stopped listening on port 46375
+1567256784579	Marionette	INFO	Listening on port 45077
+1567256784611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+1567256811456	Marionette	INFO	Stopped listening on port 46791
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567256911913	Marionette	INFO	Stopped listening on port 45077
+1567257114389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xp34ULJk6rnA"
+1567257115425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567257115425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567257115425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567257115425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1567257127326	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1326:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1326:17
+makeAddonVisible@XPIDatabase.jsm:2067:10
+addToDatabase@XPIDatabase.jsm:1996:12
+install@XPIInstall.jsm:3857:27
+_activateAddon@XPIInstall.jsm:3876:7
+1567257127326	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1326:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1326:17
+addToDatabase@XPIDatabase.jsm:1999:10
+install@XPIInstall.jsm:3857:27
+_activateAddon@XPIInstall.jsm:3876:7
+1567257127327	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1326:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1326:17
+syncWithDB@XPIProvider.jsm:640:25
+addAddon@XPIProvider.jsm:773:14
+addAddon@XPIProvider.jsm:1546:21
+install@XPIInstall.jsm:3859:17
+_activateAddon@XPIInstall.jsm:3876:7
+1567257127485	Marionette	INFO	Listening on port 44601
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB getLastModified() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1567257131157	Marionette	INFO	Stopped listening on port 44601
+1567257153701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ucSMUlBDtfPD"
+1567257158886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567257158886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567257158886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567257158886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567257173804	Marionette	INFO	Listening on port 41047
+1567257173873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+
+(/usr/lib/firefox/firefox:18048): dconf-WARNING **: 18:43:54.475: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 17951, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1567257507174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SAZP5yoCja02"
+1567257507661	Marionette	INFO	Stopped listening on port 41047
+1567257508314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567257508315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567257508315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567257508315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567257515648	Marionette	INFO	Listening on port 36245
+1567257515704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+
+(/usr/lib/firefox/firefox:19170): dconf-WARNING **: 18:49:25.516: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband.json, line 1: ReferenceError: marketlivedata is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_nifty.json, line 1: ReferenceError: marketlivedatanifty is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1567257653039	Marionette	INFO	Stopped listening on port 36245
+1567257716557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.myRwLkyC4zpm"
+1567257717966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567257717966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567257717966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567257717966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567257721410	Marionette	INFO	Listening on port 34309
+1567257721473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_sensex.json, line 1: ReferenceError: marketlivedatasensex is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband.json, line 1: ReferenceError: marketlivedata is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_nifty.json, line 1: ReferenceError: marketlivedatanifty is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 20019, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1567265783192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ItVdn0PLGxPo"
+1567265784959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567265784959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567265784959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567265784959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567265789607	Marionette	INFO	Listening on port 40123
+1567265789626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 22895, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1567269221233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.934uMUG7d3xu"
+1567269231488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567269231489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567269231489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567269231489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567269249549	Marionette	INFO	Listening on port 44783
+1567269249638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:30189): dconf-WARNING **: 22:04:52.988: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband.json, line 1: ReferenceError: marketlivedata is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_nifty.json, line 1: ReferenceError: marketlivedatanifty is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_sensex.json, line 1: ReferenceError: marketlivedatasensex is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 30189, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 30189, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567269404748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PRAiONizjasr"
+1567269408684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567269408684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567269408685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567269408685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567269417065	Marionette	INFO	Listening on port 38527
+1567269417097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1567269552611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xsSiNLQqAnbI"
+1567269554235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567269554235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567269554235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567269554235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567269564078	Marionette	INFO	Listening on port 34911
+1567269564153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+
+(/usr/lib/firefox/firefox:31613): dconf-WARNING **: 22:10:34.474: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567307365949&_0.8253709248552232, line 1: SyntaxError: unexpected token: ':'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567308088301&_0.6518248213201553, line 1: SyntaxError: unexpected token: ':'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567312058365&_0.09406936907507557, line 1: SyntaxError: unexpected token: ':'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567313140915&_0.7786720002841979, line 1: SyntaxError: unexpected token: ':'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567315307151&_0.3427362906661956, line 1: SyntaxError: unexpected token: ':'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567316028203&_0.13901276903191684, line 1: SyntaxError: unexpected token: ':'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 31501, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 31501, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567402769389	Marionette	INFO	Stopped listening on port 34911
+1567409920775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eeyZMU6rxQd8"
+1567409928565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567409928565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567409928565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567409928565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567409937178	Marionette	INFO	Listening on port 38473
+1567409937250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+
+(/usr/lib/firefox/firefox:14151): dconf-WARNING **: 13:09:55.501: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1567410024495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9lTLjh1yGo2P"
+1567410028001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567410028002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567410028002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567410028002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567410034093	Marionette	INFO	Listening on port 46405
+1567410034122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+[Child 14675, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 14675, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1567410053183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mDJV8GkuTH4t"
+1567410053778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567410053778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567410053778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567410053778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567410056665	Marionette	INFO	Listening on port 43309
+1567410056693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+
+(/usr/lib/firefox/firefox:15073): dconf-WARNING **: 13:11:56.783: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 14985, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567410175892	Marionette	INFO	Stopped listening on port 43309
+1567410186088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ahPkuHtwTDOx"
+1567410186734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567410186734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567410186734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567410186734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567410189409	Marionette	INFO	Listening on port 37811
+1567410189498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+Exiting due to channel error.
+[Child 15626, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1567410407999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iXd8eNmvuHGl"
+1567410410196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567410410196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567410410196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567410410196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567410416836	Marionette	INFO	Listening on port 36943
+1567410416927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 16641, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1567410488238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AzDZ1BJfItMs"
+1567410488934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567410488935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567410488935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567410488935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567410491788	Marionette	INFO	Listening on port 34997
+1567410491852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+
+(/usr/lib/firefox/firefox:17103): dconf-WARNING **: 13:18:56.481: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband.json, line 1: ReferenceError: marketlivedata is not defined
+[Child 17103, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 17103, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1567411404223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H2LWxXtVEolQ"
+1567411407241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567411407241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567411407241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567411407241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567411415461	Marionette	INFO	Listening on port 34115
+1567411415552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Child 19528, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 19528, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1567411517965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WNFsGBvqY0h6"
+1567411518703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567411518703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567411518703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567411518703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567411525779	Marionette	INFO	Listening on port 34073
+1567411525792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1567411703731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WO9kb55hnZ9W"
+1567411706439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567411706440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567411706440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567411706440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567411717001	Marionette	INFO	Listening on port 38621
+1567411717067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1567412088479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8tz5e4o4ovEF"
+1567412089769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567412089769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567412089769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567412089769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567412094195	Marionette	INFO	Listening on port 40609
+1567412094294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband.json, line 1: TypeError: marketlivedata is not a function
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+1567412269807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i3sIFmQ843dU"
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+1567412275088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567412275088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567412275089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567412275089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567412285758	Marionette	INFO	Listening on port 45561
+1567412285839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1567412299658	Marionette	INFO	Stopped listening on port 40609
+
+(/usr/lib/firefox/firefox:22921): dconf-WARNING **: 13:48:34.039: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript error: https://js.etimg.com/js_common/v-870,minify-1.cms, line 77: TypeError: A.error is not a function
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 22824, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567412407701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u2Rtnw60a43O"
+1567412409012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567412409012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567412409012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567412409012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567412412263	Marionette	INFO	Stopped listening on port 45561
+1567412414160	Marionette	INFO	Listening on port 37425
+1567412414218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_nifty.json, line 1: ReferenceError: marketlivedatanifty is not defined
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+Exiting due to channel error.
+[Child 23560, Chrome_ChildThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 23560, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1567412564607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kztuWHLilNfa"
+1567412565216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567412565216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567412565217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567412565217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567412568177	Marionette	INFO	Listening on port 42855
+1567412568217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+
+(/usr/lib/firefox/firefox:24179): dconf-WARNING **: 13:53:35.869: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1567412716442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A1TmcT9Hx5ii"
+1567412718113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567412718113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567412718114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567412718114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567412722419	Marionette	INFO	Listening on port 46103
+1567412722460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567412817991	Marionette	INFO	Stopped listening on port 46103
+1567412927674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DXjMRnRT0Lv0"
+1567412928301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567412928301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567412928301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567412928301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567412931758	Marionette	INFO	Listening on port 35853
+1567412931791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:25787): dconf-WARNING **: 13:59:38.296: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://json.bselivefeeds.indiatimes.com/marketband_gold.json, line 1: ReferenceError: marketlivedatagold is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript warning: https://js.etimg.com/js_common/v-870,minify-1.cms, line 66: unreachable code after return statement
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567419664007&_0.47003279471948023, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567420025713&_0.06322697796969468, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://etusers.indiatimes.com/personalisation/logdata/et/useractivity/?callback=socialDataCapture.callbckPersonalisationHit&_1567421144115&_0.315494852036719, line 1: SyntaxError: unexpected token: ':'
+[Parent 25672, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1567421481918	Marionette	INFO	Stopped listening on port 35853

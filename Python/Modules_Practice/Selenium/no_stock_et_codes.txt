@@ -1,0 +1,38 @@
+20MICRONSMessage: Unable to locate element: //ul[@class='searchListAll']/li[2]/a
+
+21STCENMGMMessage: The element reference of <a href="/20-microns-ltd/stocks/companyid-22472.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+3IINFOTECHMessage: The element reference of <a href="/twentyfirst-century-management-services-ltd/stocks/companyid-8108.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+3MINDIAMessage: The element reference of <a href="/3i-infotech-ltd/stocks/companyid-3491.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+ABANMessage: Unable to locate element: //ul[@class='searchListAll']/li[2]/a
+
+ABBOTINDIAMessage: The element reference of <a href="/abbott-india-ltd/stocks/companyid-13937.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+ABFRLMessage: Unable to locate element: //ul[@class='searchListAll']/li[2]/a
+
+ABMINTLTDMessage: The element reference of <a href="/aditya-birla-fashion-and-retail-ltd/stocks/companyid-46091.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+ACEMessage: Unable to locate element: //ul[@class='searchListAll']/li[2]/a
+
+ADANIENTMessage: The element reference of <a href="/adani-enterprises-ltd/stocks/companyid-9074.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+ADANIGREENMessage: Unable to locate element: //ul[@class='searchListAll']/li[2]/a
+
+AKSHARCHEMMessage: The element reference of <a href="/aksharchem-%28india%29-ltd/stocks/companyid-8634.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+FELDVRMessage: Unable to locate element: //ul[@class='searchListAll']/li[2]/a
+
+JISLDVREQSMessage: Unable to locate element: //ul[@class='searchListAll']/li[2]/a
+
+MAHABANKMessage: The element reference of <a href="/bank-of-maharashtra/stocks/companyid-12283.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+MCDOWELL-NMessage: Unable to locate element: //ul[@class='searchListAll']/li[2]/a
+
+REVATHIMessage: The element reference of <a href="/revathi-equipment-ltd/stocks/companyid-13180.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+TATASTEELMessage: The element reference of <a href="/tata-steel-ltd/stocks/companyid-12902.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+TIILMessage: The element reference of <a href="/technocraft-industries-%28india%29-ltd/stocks/companyid-18892.cms"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+

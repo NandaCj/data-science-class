@@ -1,0 +1,12 @@
+Postgres commands
+
+login :  sudo -i -u postgres
+db_cli - psql
+change_password : \password
+
+
+
+to use postgres for django below things are needed 
+
+sudo apt-get install postgresql postgresql-contrib libpq-dev python-dev
+pip install psycopg2

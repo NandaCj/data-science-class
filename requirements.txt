@@ -67,7 +67,7 @@ ptyprocess==0.6.0
 py4j==0.10.7
 pydot==1.4.1
 pydotplus==2.0.2
-Pygments==2.4.2
+Pygments==2.7.4
 pymc3==3.7
 pyparsing==2.4.2
 pyrsistent==0.15.4
